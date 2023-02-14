@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Onur Arda Karakum</h1>
 <h3 align="center">A engineer who aims the learn and improve in order to make the world better place.</h3>
 
-(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.wouterbongaerts.com%2Fgif&psig=AOvVaw2dv-W8uBrirVT8iy_fJLqE&ust=1676461474270000&source=images&cd=vfe&ved=0CAwQjRxqGAoTCLiqn-z3lP0CFQAAAAAdAAAAABCcAQ")
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oakarakum&label=Profile%20views&color=0e75b6&style=flat" alt="oakarakum" /> </p>
 
