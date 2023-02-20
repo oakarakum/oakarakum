@@ -1,7 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Onur Arda Karakum</h1>
 <h3 align="center">A engineer who aims the learn and improve in order to make the world better place.</h3>
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/023f904a-d3ca-496c-9afb-9745b2d7b503/Basics+of+Video+Coding.gif?format=1000w">
 - 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/oakarakum?tab=repositories](https://github.com/oakarakum?tab=repositories)
